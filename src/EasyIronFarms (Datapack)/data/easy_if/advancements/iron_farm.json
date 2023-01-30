@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "easy_if:iron_farm"
+            }
+        }
+    },
+    "rewards": {
+        "function": "easy_if:iron_farm/craft"
+    }
+}

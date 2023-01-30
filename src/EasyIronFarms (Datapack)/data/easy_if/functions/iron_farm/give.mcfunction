@@ -1,0 +1,1 @@
+give @s item_frame{CustomModelData:1,display:{Name:'{"text":"Iron Farm","italic":false}'},EntityTag:{Tags:["iron_farm"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:1}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1

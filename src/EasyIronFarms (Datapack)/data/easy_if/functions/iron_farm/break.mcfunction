@@ -1,0 +1,3 @@
+kill @e[type=item,nbt={Item:{id:"minecraft:glass",Count:1b},PickupDelay:10s},limit=1,sort=nearest,distance=..1.5]
+summon item ~ ~ ~ {Motion:[0.0d,0.3d,0.0d],PickupDelay:10s,Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:1,display:{Name:'{"text":"Iron Farm","italic":false}'},EntityTag:{Tags:["iron_farm"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:1}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}}}}
+kill @s
